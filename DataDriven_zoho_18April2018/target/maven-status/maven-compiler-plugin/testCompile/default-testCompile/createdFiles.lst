@@ -1,0 +1,5 @@
+com\qtpselenium\zoho\project\AppTest.class
+com\qtpselenium\zoho\project\testcases\Corditest.class
+com\qtpselenium\zoho\project\base\BaseTest.class
+com\qtpselenium\zoho\project\testcases\LoginTest.class
+com\qtpselenium\zoho\project\testcases\LeadTest.class

@@ -1,0 +1,26 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="SuiteName">
+	
+		<test name="LoginTest" allow-return-values="true">
+		<classes>
+			<class name="com.qtpselenium.zoho.project.testcases.LoginTest" />
+		</classes>
+	</test>
+	
+	<test name="Lead Test" allow-return-values="true">
+		<classes>
+			<class name="com.qtpselenium.zoho.project.testcases.LeadTest" />
+		</classes>
+	</test>
+<!-- 	
+	<test name="TestC" allow-return-values="true">
+		<classes>
+			<class name="com.testing.core.ddf.testcases.DummyTestC" />
+		</classes>
+	</test>
+	
+	 -->
+	
+	
+</suite>
+
